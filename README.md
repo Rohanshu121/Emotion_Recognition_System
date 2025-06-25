@@ -6,6 +6,7 @@
 
 * [Overview](#overview)
 * [Dataset](#dataset)
+* [Architecture](#Architecture)
 * [Training](#training)
 * [Evaluation](#evaluation)
 * [Usage](#usage)
