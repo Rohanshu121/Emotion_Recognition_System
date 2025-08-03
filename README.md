@@ -22,7 +22,7 @@ MoodX processes multi-modal inputs in conversational videos using:
 * **Audio**: HuBERT-based audio encoder
 * **Text**: RoBERTa-based text encoder
 
-These are fused through **cross-modal attention** and refined with self-attention (BEiT), producing emotion predictions in polar form (θ, intensity), then transformed into valence and arousal scores
+These are fused through **cross-modal attention** and refined with self-attention (BEiT), producing emotion predictions in polar form (θ, intensity), then transformed into valence and arousal scores.
 
 ---
 
